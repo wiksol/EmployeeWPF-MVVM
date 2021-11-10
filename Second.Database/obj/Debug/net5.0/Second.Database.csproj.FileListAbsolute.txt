@@ -1,0 +1,15 @@
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\Second.Database.deps.json
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\Second.Database.runtimeconfig.json
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\Second.Database.runtimeconfig.dev.json
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\Second.Database.dll
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\ref\Second.Database.dll
+C:\Users\wikto\source\repos\Second\Second.Database\bin\Debug\net5.0\Second.Database.pdb
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.AssemblyInfo.cs
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.dll
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\ref\Second.Database.dll
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.pdb
+C:\Users\wikto\source\repos\Second\Second.Database\obj\Debug\net5.0\Second.Database.genruntimeconfig.cache
